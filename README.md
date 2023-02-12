@@ -16,7 +16,7 @@ and typed in the following commands in the container
    - `php artisan config:cache`
    - `php artisan migrate:fresh`
 
-I deployed the container on a digital ocean droplet and added assigned a domain to it http://ejirolaureld.live
+I deployed the container on a digital ocean droplet and assigned a domain to it http://ejirolaureld.live
 
 ![laravel-deployed](./dockerr.png)
 ![endpoint](./endpoint.png)

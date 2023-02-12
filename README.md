@@ -1,5 +1,10 @@
 # deploy-laravel with docker.
 I used php, mysql and redis for this project.
-I deployed container on a digital ocean droplet http://165.232.98.105:8000/
 
-![docker-deployed](./docker.png)
+I cloned the Laravel project repository from https://github.com/f1amy/laravel-realworld-example-app
+
+I deployed the container on a digital ocean droplet and added assigned a domain to it http://ejirolaureld.live
+
+![laravel-deployed](./docker.png)
+![endpoint](./endpoint.png)
+
